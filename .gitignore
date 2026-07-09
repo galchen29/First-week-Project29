@@ -1,0 +1,17 @@
+# Data files -- never commit large data to git
+*.vcf
+*.vcf.gz
+*.bed
+*.bim
+*.fam
+*.bgen
+
+# Results that can be regenerated
+*.png
+*.csv
+
+# Logs
+logs/
+
+# OS files
+.DS_Store
