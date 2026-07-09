@@ -27,6 +27,6 @@
 ## Lessons Learned
 [What was confusing? What do you want to remember?]
 
-The github stuff waa kind of confusing. There werent any instructions on how to actually make the git.ignore and etc so I had to figure that out. I alos need to do a better job with organization because, as seen with the output logs, it got pretty messy. Also, it took me some time to understand sbatch files and that theyre actually almost like a local function or script you create rather than something you can paste in the terminal.
+The github stuff was kind of confusing. There werent any instructions on how to actually make the git.ignore and etc so I had to figure that out. I alos need to do a better job with organization because, as seen with the output logs, it got pretty messy. Also, it took me some time to understand sbatch files and that theyre actually almost like a local function or script you create rather than something you can paste in the terminal.
 
 I definitely want to remember basic simple functions like cd, pwd, scp, cp, and zcat as well as to use this learning experience to get better at organizing data.
