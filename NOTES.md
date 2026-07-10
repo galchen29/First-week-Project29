@@ -4,9 +4,9 @@
 2026-07-09
 
 ## Data Location
-- **Input VCF:** /gs/gsfs0/users/raj-lab/rhone_galchen/test_vcf/chr22.homogenous.vcf.gz/
-- **Output directory:** /gs/gsfs0/users/raj-lab/rhone_galchen/rgalchen/logs
-- **Results:** /gs/gsfs0/users/raj-lab/rhone_galchen/rgalchen/first_week/results
+- **Input VCF:** /gs/gsfs0/users/raj/lab/rhone_galchen/first_week_project/test_vcf/chr22.homogenous.vcf.gz/
+- **Output directory:** /gs/gsfs0/users/raj-lab/rhone_galchen/first_week_project/logs
+- **Results:** /gs/gsfs0/users/raj-lab/rhone_galchen/first_week_project/vcfs_and_variant_results
 
 ## Scripts
 | Script | Purpose | How to run |
